@@ -2,6 +2,8 @@
 
 QuickRabbit is a web application designed to provide quick access to various resources and tools related to coding, interviews, development, and other related fields. It aims to streamline the search process and offer a centralized platform for users to find relevant information and services.
 
+![QuickRabbit Logo](https://static.vecteezy.com/system/resources/previews/052/243/216/non_2x/quick-rabbit-running-joyfully-spreading-happy-vibes-free-png.png)
+
 ## Idea
 
 The core idea behind QuickRabbit is to create a user-friendly interface that simplifies the often cumbersome process of searching for specific resources online.  Instead of navigating through multiple websites and search engines, users can use QuickRabbit to quickly find what they need.  The project focuses on aggregating relevant links and tools into a single, easily accessible location.
